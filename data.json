@@ -1,0 +1,39 @@
+{
+  "synthetic": true,
+  "baseline": [
+    12,
+    15,
+    13,
+    20,
+    18,
+    22
+  ],
+  "current": [
+    15,
+    18,
+    17,
+    24,
+    26,
+    30
+  ],
+  "labels": [
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "cohorts": [
+    {
+      "label": "New accounts",
+      "base": 60,
+      "paid": 18
+    },
+    {
+      "label": "Returning accounts",
+      "base": 40,
+      "paid": 20
+    }
+  ]
+}
